@@ -5,7 +5,7 @@
 ![Render](https://img.shields.io/badge/Render-Hosting-purple)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-A smart machine-learning-powered Flask web app to predict health conditions based on symptoms. Deployed to Render for real-time diagnosis with a clean, mobile-friendly UI. Built using Python, Flask, scikit-learn, and pandas. Designed for Gen Z-friendly vibes, scalability, and accessibility 🧠💅
+A smart health diagnosis app that uses machine learning to predict conditions based on symptoms. Built with Python and Flask, deployed via Render, and designed to feel easy and intuitive on any device.Built for speed, precision, and just the right insights—with flair.
 
 🔗 **Live Site**: [health-diagnosis-app-quwq.onrender.com](https://health-diagnosis-app-quwq.onrender.com)
 
@@ -14,11 +14,7 @@ A smart machine-learning-powered Flask web app to predict health conditions base
 ## 📘 Table of Contents
 - [Features](#features)
 - [Tech Stack](#tech-stack)
-- [Installation](#installation)
-- [Roadmap](#roadmap)
-- [Contributors](#contributors)
 - [Contact](#contact)
-- [License](#license)
 
 ---
 
@@ -43,19 +39,6 @@ A smart machine-learning-powered Flask web app to predict health conditions base
 | HTML/CSS     | UI structure and styling       |
 | Render       | Cloud hosting platform         |
 
----
-
-## ⚙️ Installation
-
-```bash
-# Clone the repo
-git clone https://github.com/Sushmi-maddala/health-diagnosis-app.git
-
-# Move into folder
-cd health-diagnosis-app
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run locally
-python app.py
+``
+## 📬 Contact
+💌 Email: 22h41a4528sushmi@gmail.com
