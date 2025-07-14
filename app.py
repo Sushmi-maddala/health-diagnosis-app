@@ -35,8 +35,19 @@ food_suggestions = {
     "eye strain": ["carrots", "sweet potatoes", "spinach", "eggs", "blueberries"],
     "muscle cramps": ["banana", "potassium-rich foods", "coconut water", "spinach", "yogurt"],
     "poor digestion": ["ginger", "papaya", "mint", "fennel", "yogurt"],
-    "low immunity": ["citrus fruits", "garlic", "spinach", "yogurt", "almonds"]
+    "low immunity": ["citrus fruits", "garlic", "spinach", "yogurt", "almonds"],
+    "heatstroke": ["coconut water", "watermelon", "cucumber", "lemonade", "mint"],
+    "acidic stomach": ["banana", "cold milk", "oatmeal", "boiled rice", "non-citrus fruits"],
+    "heartburn": ["ginger", "low-fat yogurt", "oatmeal", "aloe vera juice", "green beans"],
+    "itchiness": ["cucumber", "mint", "turmeric", "sunflower seeds", "water"],
+    "bruising": ["pineapple", "citrus fruits", "spinach", "red bell peppers", "broccoli"],
+    "weight loss": ["sweet potatoes", "eggs", "avocado", "nuts", "milk"],
+    "weight gain": ["peanut butter", "whole grains", "red meat", "cheese", "smoothies"],
+    "stomach pain": ["boiled rice", "banana", "ginger", "mint tea", "applesauce"],
+    "gastric": ["fennel seeds", "ginger", "mint", "cucumber", "yogurt"],
+    "body pains": ["turmeric milk", "spinach", "almonds", "sweet potatoes", "green tea"]
 }
+
 def suggest_foods(symptom_text):
     symptoms = symptom_text.lower().split()
     foods = set()
