@@ -46,16 +46,6 @@ A smart machine-learning-powered Flask web app to predict health conditions base
 
 ---
 
-## 📸 Screenshots
-
-| Homepage                     | Result Page                  |
-|-----------------------------|------------------------------|
-| ![](screenshots/form.png)   | ![](screenshots/result.png)  |
-
-> *Add your screenshots to a `/screenshots` folder in the repo for this to show properly*
-
----
-
 ## ⚙️ Installation
 
 ```bash
