@@ -14,7 +14,6 @@ A smart machine-learning-powered Flask web app to predict health conditions base
 ## 📘 Table of Contents
 - [Features](#features)
 - [Tech Stack](#tech-stack)
-- [Screenshots](#screenshots)
 - [Installation](#installation)
 - [Roadmap](#roadmap)
 - [Contributors](#contributors)
